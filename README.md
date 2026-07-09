@@ -1,5 +1,26 @@
-## Hi there 👋
+# Hi there 👋
 
+I'm José, a Computer Engineering student at ISEP, originally from Santarém, Portugal.
+
+I've always known I wanted to build things with computers. My childhood dream was to become a game developer, and that passion eventually led me to Computer Engineering. Along the way, I discovered a strong interest in Software Engineering, application design, and Cybersecurity.
+
+I'm currently focused on improving my skills through personal projects, learning new technologies, and writing clean, maintainable software.
+
+## 🚀 About Me
+
+- 🎓 Third-year Computer Engineering student at ISEP
+- 📍 Originally from Santarém, currently studying in Porto
+- 💻 Most comfortable with C and Java
+- 🔒 Future Cybersecurity Master's student
+- 🎮 Aspiring Game Developer
+- 🎨 Passionate about software architecture and application design
+
+## 🎯 Current Goals
+
+- Build a strong portfolio of personal projects
+- Improve my software engineering skills
+- Learn more about cybersecurity
+- Contribute to open-source whenever possible
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/carroidoso__75993) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josecardoso252006@hotmail.com) 
