@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm José, a Computer Engineering student at ISEP, originally from Santarém, Portugal.
+I'm Cardoso, a Computer Engineering student at ISEP, originally from Santarém, Portugal.
 
 I've always known I wanted to build things with computers. My childhood dream was to become a game developer, and that passion eventually led me to Computer Engineering. Along the way, I discovered a strong interest in Software Engineering, application design, and Cybersecurity.
 
