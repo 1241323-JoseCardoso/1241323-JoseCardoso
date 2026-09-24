@@ -10,12 +10,11 @@
 [![My Skills](https://skillicons.dev/icons?i=py,github,git,mysql,java,cs,c,cpp,html,css,bootstrap,unreal,unity,idea,anaconda)](https://skillicons.dev)  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=1241323-JoseCardoso&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=1241323-JoseCardoso&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=1241323-JoseCardoso&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+📊 GitHub Stats:
+<div align="center"> <img src="https://github-readme-stats.shion.dev/api?username=1241323-JoseCardoso&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/> <br/> <img src="https://streak-stats.demolab.com/?user=1241323-JoseCardoso&theme=dark&hide_border=false" alt="GitHub Streak"/> <br/> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=1241323-JoseCardoso&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/> </div>
 
 ## 🌐 Socials:
-<div>
+<div align="center">
     <a href="https://www.instagram.com/josecardoso2006/">
         <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50" height="50"/>
     </a>
