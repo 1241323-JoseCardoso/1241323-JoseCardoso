@@ -21,9 +21,6 @@
     <a href="josecardoso252006@hotmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" alt="Hotmail" width="50" height="50"/>
     </a>
-    <a href="carroidoso__75993">
-        <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="50" height="50"/>
-    </a>
     <a href="https://www.linkedin.com/in/jos%C3%A9-cardoso-40ab04218/">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="50" height="50"/>
     </a>
